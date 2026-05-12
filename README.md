@@ -2,6 +2,9 @@
 
 # AI-Datanalysis
 
+**Author:** Aum Aswar
+
+
 <br/>
 
 **AI-Datanalysis** is a chatbot tool powered by AI agent for analyzing and discovering knowledge in data. 
@@ -37,7 +40,7 @@ The application's brain is heavily based on generative models (LLMs) integrated 
 #### Option-1 Docker (recommended):
 
 ```
-git clone https://github.com/your-username/AI-Datanalysis.git
+git clone https://github.com/Aumaswar/Talk-To-Your-Data.git
 cd AI-Datanalysis
 ```
 
@@ -48,7 +51,7 @@ docker-compose up --build -d
 #### Option-2 Poetry:
 
 ```
-git clone https://github.com/your-username/AI-Datanalysis.git
+git clone https://github.com/Aumaswar/Talk-To-Your-Data.git
 cd AI-Datanalysis
 ```
 
@@ -118,6 +121,7 @@ WHITELIST_ENV = ["json", "statsmodels", "scipy", "datetime"]
 <br/>
 
 ## LLMs available
+
 
 - Obtain the api-key for use in app according to the desired model
 

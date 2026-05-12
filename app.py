@@ -265,7 +265,7 @@ def main() -> None:
 
     st.set_page_config(
         layout="wide",
-        menu_items={"About": "Data Analysis Tool"},
+        menu_items={"About": "https://github.com/Aumaswar/Talk-To-Your-Data"},
         initial_sidebar_state="expanded",
         page_icon="📊",
         page_title="AI-Datanalysis",
