@@ -14,6 +14,8 @@ The application's brain is heavily based on generative models (LLMs) integrated 
 
 <br/>
 
+
+- Access the web application here  [https://ai-datanalysis.streamlit.app/](https://ai-datanalysis.streamlit.app/)
 <h3 align="center">
   <img src="imgs/img_6.png" >
 </h3><br/>
