@@ -31,9 +31,7 @@ The application's brain is heavily based on generative models (LLMs) integrated 
 
 ## Get started
 
-### Web app access
 
-- Access the web application here  [https://ai-datanalysis.streamlit.app/](https://ai-datanalysis.streamlit.app/)
 
 ### Local installation
 
